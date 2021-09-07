@@ -1,0 +1,3980 @@
+{
+  "C": {
+    "category": "기본",
+    "name": "접수번호No.",
+    "unit": "-",
+    "vari": [
+      44273, 44274, 44285, 44286, 44287, 44292, 44293, 44294, 44295, 44299,
+      44291, 44288, 44298, 44300, 44302, 44307, 44344
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "D": {
+    "category": "기본",
+    "name": "업체명",
+    "unit": "-",
+    "vari": [
+      { "value": "다이텍연구원", "count": 214 },
+      { "value": "부산대학교", "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "E": {
+    "category": "기본",
+    "name": "염색법",
+    "unit": "1욕 or 2욕",
+    "vari": [{ "value": 1, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "F": {
+    "category": "기본",
+    "name": "기계분류ID",
+    "unit": "-",
+    "vari": [{ "value": "P-DY09", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "G": {
+    "category": "기본",
+    "name": "기계분류",
+    "unit": "-",
+    "vari": [{ "value": "고압 래피드 염색기", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "H": {
+    "category": "기본",
+    "name": "원료ID",
+    "unit": "-",
+    "vari": [{ "value": "RAW-001", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "I": {
+    "category": "경사",
+    "name": "소재명",
+    "unit": "-",
+    "vari": [{ "value": "Recycled Polyester", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "J": {
+    "category": "경사",
+    "name": "섬도",
+    "unit": "denier",
+    "vari": [{ "value": 300, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "K": {
+    "category": "경사",
+    "name": "필라멘트수",
+    "unit": "개",
+    "vari": [{ "value": 96, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "L": {
+    "category": "경사",
+    "name": "광택",
+    "unit": "-",
+    "vari": [{ "value": "Semi Dull", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "M": {
+    "category": "경사",
+    "name": "특성",
+    "unit": "-",
+    "vari": [{ "value": "Draw Textured Yarn", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "N": {
+    "category": "경사",
+    "name": "밀도",
+    "unit": "올수/25mm",
+    "vari": [{ "value": 82.5, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "O": {
+    "category": "경사",
+    "name": "성상",
+    "unit": "-",
+    "vari": [{ "value": "150*2 INT", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "P": {
+    "category": "경사",
+    "name": "형상",
+    "unit": "-",
+    "vari": [{ "value": "Filaments", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "Q": {
+    "category": "위사",
+    "name": "소재명",
+    "unit": "-",
+    "vari": [{ "value": "Recycled Polyester", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "R": {
+    "category": "위사",
+    "name": "섬도",
+    "unit": "denier",
+    "vari": [{ "value": 300, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "S": {
+    "category": "위사",
+    "name": "필라멘트수",
+    "unit": "개",
+    "vari": [{ "value": 96, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "T": {
+    "category": "위사",
+    "name": "광택",
+    "unit": "-",
+    "vari": [{ "value": "Semi Dull", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "U": {
+    "category": "위사",
+    "name": "특성",
+    "unit": "-",
+    "vari": [{ "value": "Draw Textured Yarn", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "V": {
+    "category": "위사",
+    "name": "밀도",
+    "unit": "올수/25mm",
+    "vari": [{ "value": 82.5, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "W": {
+    "category": "위사",
+    "name": "성상",
+    "unit": "-",
+    "vari": [{ "value": "150*2 INT", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "X": {
+    "category": "위사",
+    "name": "형상",
+    "unit": "-",
+    "vari": [{ "value": "Filaments", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "Y": {
+    "category": "제직",
+    "name": "대분류",
+    "unit": "-",
+    "vari": [{ "value": "WOVEN", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "Z": {
+    "category": "제직",
+    "name": "중분류",
+    "unit": "-",
+    "vari": [{ "value": "TWILL", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AA": {
+    "category": "제직",
+    "name": "중량_생지",
+    "unit": "g/m2",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "AB": {
+    "category": "제직",
+    "name": "폭_생지",
+    "unit": "m",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "AC": {
+    "category": "제직",
+    "name": "수량",
+    "unit": "개",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "AD": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 기계장비ID",
+    "unit": "-",
+    "vari": [{ "value": "P-DY09", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AE": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 기계장비",
+    "unit": "RAPID or JIGGER",
+    "vari": [{ "value": "고압 래피드 염색기", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AF": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 원단 투입량",
+    "unit": "g",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "AG": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #1 제품명",
+    "unit": "-",
+    "vari": [{ "value": "Sera Wash C-NEP", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AH": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #1제조사명",
+    "unit": "-",
+    "vari": [{ "value": "DYSTAR", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AI": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #1 종류",
+    "unit": "-",
+    "vari": [{ "value": "정련호발제", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AJ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #1투입량",
+    "unit": "g/l",
+    "vari": [{ "value": 3, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AK": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #2 제품명",
+    "unit": "-",
+    "vari": [{ "value": "NaOH", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AL": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #2제조사명",
+    "unit": "-",
+    "vari": [{ "value": "삼일", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AM": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #2 종류",
+    "unit": "none",
+    "vari": [{ "value": "가성소다", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AN": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #2투입량",
+    "unit": "g/l",
+    "vari": [{ "value": 5, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AO": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #3 제품명",
+    "unit": "-",
+    "vari": [{ "value": "CH3COOH", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AP": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #3제조사명",
+    "unit": "-",
+    "vari": [{ "value": "삼일", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AQ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #3 종류",
+    "unit": "-",
+    "vari": [{ "value": "빙초산", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AR": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 조제 #3투입량",
+    "unit": "g/l",
+    "vari": [{ "value": 0.5, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AS": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 시작온도",
+    "unit": "℃",
+    "vari": [{ "value": 45, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AT": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승속도 #1",
+    "unit": "℃/min",
+    "vari": [{ "value": 5.5, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AU": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 95, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AV": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승온도 #1 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 60, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AW": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승속도 #2",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AX": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 95, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AY": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승온도 #2 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "AZ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승속도 #3",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BA": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승온도 #3",
+    "unit": "℃",
+    "vari": [{ "value": 95, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BB": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 상승온도 #3 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BC": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강속도 #1",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BD": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 95, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BE": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강온도 #1 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BF": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강속도 #2",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BG": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 95, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BH": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강온도 #2 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BI": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강속도 #3",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BJ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강온도 #3",
+    "unit": "℃",
+    "vari": [{ "value": 95, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BK": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 하강온도 #3 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BL": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 종료속도",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BM": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 종료온도",
+    "unit": "℃",
+    "vari": [{ "value": 95, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BN": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 종료온도 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BO": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 수세온도",
+    "unit": "℃/min",
+    "vari": [{ "value": 80, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BP": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 수세시간",
+    "unit": "m",
+    "vari": [{ "value": 10, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BQ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 수세횟수",
+    "unit": "회",
+    "vari": [{ "value": 2, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BR": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조장비ID",
+    "unit": "-",
+    "vari": [{ "value": "P-DY12", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BS": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조장비",
+    "unit": "-",
+    "vari": [{ "value": "산업용 텐터기", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BT": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오버피드",
+    "unit": "%",
+    "vari": [{ "value": 1, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BU": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 패더압력",
+    "unit": "bar",
+    "vari": [{ "value": 3, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BV": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 패더압력",
+    "unit": "bar",
+    "vari": [{ "value": 3, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BW": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 실제포온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "BX": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 실제포온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "BY": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 세팅챔버온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "BZ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 세팅챔버온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CA": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조속도 #1",
+    "unit": "m/min",
+    "vari": [{ "value": 20, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CB": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조열풍 #1",
+    "unit": "rpm",
+    "vari": [{ "value": 1200, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CC": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 실제포온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "CD": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 실제포온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "CE": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 세팅챔버온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CF": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 세팅챔버온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CG": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조속도 #2",
+    "unit": "m/min",
+    "vari": [{ "value": 20, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CH": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조열풍 #2",
+    "unit": "rpm",
+    "vari": [{ "value": 1200, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CI": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 실제포온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "CJ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 실제포온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "CK": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 세팅챔버온도 #3",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CL": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 세팅챔버온도 #3",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CM": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조속도 #3",
+    "unit": "m/min",
+    "vari": [{ "value": 20, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CN": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조열풍 #3",
+    "unit": "rpm",
+    "vari": [{ "value": 1200, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CO": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 실제포온도 #4",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "CP": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 실제포온도 #4",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "CQ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 세팅챔버온도 #4",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CR": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 세팅챔버온도 #4",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CS": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조속도 #4",
+    "unit": "m/min",
+    "vari": [{ "value": 20, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CT": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조열풍 #4",
+    "unit": "rpm",
+    "vari": [{ "value": 1200, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CU": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 실제포온도 #5",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "CV": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 실제포온도 #5",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "CW": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 세팅챔버온도 #5",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CX": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 세팅챔버온도 #5",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CY": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조속도 #5",
+    "unit": "m/min",
+    "vari": [{ "value": 20, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "CZ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조열풍 #5",
+    "unit": "rpm",
+    "vari": [{ "value": 1200, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DA": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 실제포온도 #6",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "DB": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 실제포온도 #6",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "DC": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 세팅챔버온도 #6",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DD": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 세팅챔버온도 #6",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DE": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조속도 #6",
+    "unit": "m/min",
+    "vari": [{ "value": 20, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DF": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조열풍 #6",
+    "unit": "rpm",
+    "vari": [{ "value": 1200, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DG": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 실제포온도 #7",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "DH": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 실제포온도 #7",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "DI": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 오른쪽 세팅챔버온도 #7",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DJ": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 왼쪽 세팅챔버온도 #7",
+    "unit": "℃",
+    "vari": [{ "value": 170, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DK": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조속도 #7",
+    "unit": "m/min",
+    "vari": [{ "value": 20, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DL": {
+    "category": "Pilot전처리",
+    "name": "Pilot 전처리 건조열풍 #7",
+    "unit": "rpm",
+    "vari": [{ "value": 1200, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DM": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 시료 무게",
+    "unit": "g",
+    "vari": [
+      { "value": 4, "count": 214 },
+      { "value": 6.75, "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DN": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #1 명",
+    "unit": "-",
+    "vari": [
+      "Dorosperse Yellow KKL",
+      "Dorosperse Red KKL",
+      "Dorosperse Blue KKL",
+      "Dianix Yellow AM-2R",
+      "Dianix Red AM-SLR",
+      "Dianix Blue AM-2G",
+      "Synolon Yellow AK",
+      "Synolon Red AK",
+      "Synolon Blue AK",
+      "Dorosperse B/K KKL",
+      "Dianix Black AM-SLR",
+      "Synolon Black AK-NB",
+      "Dorosperse Dark Grey KKL",
+      "Dianix Grey AM-SLR",
+      "Synolon Dark Grey AK",
+      "Dianix Yellow Brown AM-R",
+      "Dorosperse Brown K-3LR",
+      "Synofast 28"
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DO": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #1 제조사명",
+    "unit": "-",
+    "vari": [
+      { "value": "ARCHROMA", "count": 135 },
+      { "value": "DYSTAR", "count": 120 },
+      { "value": "경인양행", "count": 121 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DP": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #1 종류",
+    "unit": "-",
+    "vari": [{ "value": "분산", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DQ": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #1 타입",
+    "unit": "-",
+    "vari": [{ "value": "고일광", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DR": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #1 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [
+      0.5, 1, 1.5, 2, 2.5, 0.1, 3, 0.167, 0.333, 0.667, 0.05, 0.033, 0.067,
+      0.017, 1.333, 4, 5, 6
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "DS": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #2 명",
+    "unit": "-",
+    "vari": [
+      { "value": "Dorosperse Red KKL", "count": 18 },
+      { "value": "Dorosperse Blue KKL", "count": 24 },
+      { "value": "Dianix Blue AM-2G", "count": 24 },
+      { "value": "Dianix Red AM-SLR", "count": 18 },
+      { "value": "Synolon Blue AK", "count": 24 },
+      { "value": "Synolon Red AK", "count": 18 }
+    ],
+    "empty": 250,
+    "empty_ratio": "66.48936170212765%"
+  },
+  "DT": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #2 제조사명",
+    "unit": "-",
+    "vari": [
+      { "value": "ARCHROMA", "count": 42 },
+      { "value": "DYSTAR", "count": 42 },
+      { "value": "경인양행", "count": 42 }
+    ],
+    "empty": 250,
+    "empty_ratio": "66.48936170212765%"
+  },
+  "DU": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #2 종류",
+    "unit": "-",
+    "vari": [{ "value": "분산", "count": 126 }],
+    "empty": 250,
+    "empty_ratio": "66.48936170212765%"
+  },
+  "DV": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #2 타입",
+    "unit": "-",
+    "vari": [{ "value": "고일광", "count": 126 }],
+    "empty": 250,
+    "empty_ratio": "66.48936170212765%"
+  },
+  "DW": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #2 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [
+      { "value": 0.5, "count": 12 },
+      { "value": 1, "count": 9 },
+      { "value": 0.333, "count": 21 },
+      { "value": 0.167, "count": 12 },
+      { "value": 0.667, "count": 21 },
+      { "value": 0.067, "count": 9 },
+      { "value": 0.033, "count": 21 },
+      { "value": 0.017, "count": 12 },
+      { "value": 1.333, "count": 9 }
+    ],
+    "empty": 250,
+    "empty_ratio": "66.48936170212765%"
+  },
+  "DX": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #3 명",
+    "unit": "-",
+    "vari": [
+      { "value": "Dorosperse Blue KKL", "count": 6 },
+      { "value": "Dianix Blue AM-2G", "count": 6 },
+      { "value": "Synolon Blue AK", "count": 6 }
+    ],
+    "empty": 358,
+    "empty_ratio": "95.2127659574468%"
+  },
+  "DY": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #3 제조사명",
+    "unit": "-",
+    "vari": [
+      { "value": "ARCHROMA", "count": 6 },
+      { "value": "DYSTAR", "count": 6 },
+      { "value": "경인양행", "count": 6 }
+    ],
+    "empty": 358,
+    "empty_ratio": "95.2127659574468%"
+  },
+  "DZ": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #3 종류",
+    "unit": "-",
+    "vari": [{ "value": "분산", "count": 18 }],
+    "empty": 358,
+    "empty_ratio": "95.2127659574468%"
+  },
+  "EA": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #3 타입",
+    "unit": "-",
+    "vari": [{ "value": "고일광", "count": 18 }],
+    "empty": 358,
+    "empty_ratio": "95.2127659574468%"
+  },
+  "EB": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #3 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [
+      { "value": 0.5, "count": 3 },
+      { "value": 0.167, "count": 3 },
+      { "value": 0.333, "count": 3 },
+      { "value": 0.033, "count": 3 },
+      { "value": 0.017, "count": 3 },
+      { "value": 0.667, "count": 3 }
+    ],
+    "empty": 358,
+    "empty_ratio": "95.2127659574468%"
+  },
+  "EC": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #4 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "ED": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #4 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "EE": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #4 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "EF": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #4 타입",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "EG": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 염료 #4 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "EH": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 액비",
+    "unit": "-",
+    "vari": [{ "value": "1:10", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EI": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 용수량",
+    "unit": "l",
+    "vari": [
+      { "value": 0.04, "count": 214 },
+      { "value": 0.0675, "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EJ": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #1 명",
+    "unit": "-",
+    "vari": [{ "value": "Sunsolt RM-340S", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EK": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #1 제조사명",
+    "unit": "-",
+    "vari": [{ "value": "니카코리아", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EL": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #1 종류",
+    "unit": "-",
+    "vari": [{ "value": "분산·균염제", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EM": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #1 투입량",
+    "unit": "o.w.f(%)",
+    "vari": [{ "value": 0.3, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EN": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #2 명",
+    "unit": "-",
+    "vari": [{ "value": "빙초산", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EO": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #2 제조사명",
+    "unit": "-",
+    "vari": [{ "value": "삼일", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EP": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #2 종류",
+    "unit": "-",
+    "vari": [{ "value": "산", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "EQ": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #2 투입량",
+    "unit": "g/l",
+    "vari": [{ "value": 0.5, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "ER": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #3 명",
+    "unit": "-",
+    "vari": [
+      { "value": "UVK-200", "count": 54 },
+      { "value": "Fadex® TS liq", "count": 54 }
+    ],
+    "empty": 268,
+    "empty_ratio": "71.27659574468085%"
+  },
+  "ES": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #3 제조사명",
+    "unit": "-",
+    "vari": [
+      { "value": "경인양행", "count": 54 },
+      { "value": "Archroma", "count": 54 }
+    ],
+    "empty": 268,
+    "empty_ratio": "71.27659574468085%"
+  },
+  "ET": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #3 종류",
+    "unit": "-",
+    "vari": [{ "value": "일광견뢰도증진제", "count": 108 }],
+    "empty": 268,
+    "empty_ratio": "71.27659574468085%"
+  },
+  "EU": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #3 투입량",
+    "unit": "o.w.f(%)",
+    "vari": [{ "value": 4, "count": 108 }],
+    "empty": 268,
+    "empty_ratio": "71.27659574468085%"
+  },
+  "EV": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #4 명",
+    "unit": "-",
+    "vari": [
+      { "value": "UVK-400 H/C", "count": 54 },
+      { "value": "Sera Fast P-UVC", "count": 54 }
+    ],
+    "empty": 268,
+    "empty_ratio": "71.27659574468085%"
+  },
+  "EW": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #4 제조사명",
+    "unit": "-",
+    "vari": [
+      { "value": "경인양행", "count": 54 },
+      { "value": "Dystar", "count": 54 }
+    ],
+    "empty": 268,
+    "empty_ratio": "71.27659574468085%"
+  },
+  "EX": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #4 종류",
+    "unit": "-",
+    "vari": [{ "value": "일광견뢰도증진제", "count": 108 }],
+    "empty": 268,
+    "empty_ratio": "71.27659574468085%"
+  },
+  "EY": {
+    "category": "Lab 배합",
+    "name": "Lab 배합 조제 #4 투입량",
+    "unit": "o.w.f(%)",
+    "vari": [{ "value": 4, "count": 108 }],
+    "empty": 268,
+    "empty_ratio": "71.27659574468085%"
+  },
+  "EZ": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 기계 ID",
+    "unit": "-",
+    "vari": [
+      { "value": "P-DY02", "count": 214 },
+      { "value": "P-DY08", "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FA": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 기계명",
+    "unit": "-",
+    "vari": [
+      { "value": "IR 염색기", "count": 214 },
+      { "value": "STARLET DL-6000+", "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FB": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 시작온도",
+    "unit": "℃",
+    "vari": [{ "value": 40, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FC": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승속도 #1",
+    "unit": "℃/min",
+    "vari": [{ "value": 1.5, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FD": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 64, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FE": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승온도 #1 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FF": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승속도 #2",
+    "unit": "℃/min",
+    "vari": [{ "value": 0.75, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FG": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 100, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FH": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승온도 #2 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FI": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승속도 #3",
+    "unit": "℃/min",
+    "vari": [
+      { "value": 1.458333333, "count": 214 },
+      { "value": 1.5, "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FJ": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승온도 #3",
+    "unit": "℃",
+    "vari": [
+      { "value": 135, "count": 214 },
+      { "value": 136, "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FK": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 상승온도 #3 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 60, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FL": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강속도 #1",
+    "unit": "℃/min",
+    "vari": [
+      { "value": 1.97222, "count": 214 },
+      { "value": 2, "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FM": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 64, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FN": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강온도 #1 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FO": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강속도 #2",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FP": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 64, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FQ": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강온도 #2 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FR": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강속도 #3",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FS": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강온도 #3",
+    "unit": "℃",
+    "vari": [{ "value": 64, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FT": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 하강온도 #3 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FU": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 종료속도",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FV": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 종료온도",
+    "unit": "℃",
+    "vari": [{ "value": 64, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FW": {
+    "category": "Lab 염색",
+    "name": "Lab 염색 종료온도 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FX": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 기계ID",
+    "unit": "-",
+    "vari": [
+      { "value": "P-DY02", "count": 214 },
+      { "value": "P-DY08", "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FY": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 기계명",
+    "unit": "-",
+    "vari": [
+      { "value": "IR 염색기", "count": 214 },
+      { "value": "STARLET DL-6000+", "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "FZ": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 조제 #1 명",
+    "unit": "-",
+    "vari": [{ "value": "NaOH", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GA": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 조제 #1 제조사명",
+    "unit": "-",
+    "vari": [{ "value": "삼일", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GB": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 조제 #1 종류",
+    "unit": "-",
+    "vari": [{ "value": "가성소다", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GC": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 조제 #1 투입량",
+    "unit": "g/l",
+    "vari": [
+      { "value": 1.5, "count": 214 },
+      { "value": 2, "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GD": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 조제 #2 명",
+    "unit": "-",
+    "vari": [{ "value": "Sera Con M-FAS", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GE": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 조제 #2 제조사명",
+    "unit": "-",
+    "vari": [{ "value": "Dystar", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GF": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 조제 #2 종류",
+    "unit": "-",
+    "vari": [{ "value": "환원세정제", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GG": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 조제 #2 투입량",
+    "unit": "g/l",
+    "vari": [
+      { "value": 1.5, "count": 214 },
+      { "value": 2, "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GH": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 액비",
+    "unit": "-",
+    "vari": [{ "value": "1:10", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GI": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 용수량",
+    "unit": "l",
+    "vari": [
+      { "value": 0.04, "count": 214 },
+      { "value": 0.0675, "count": 162 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GJ": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 시작온도",
+    "unit": "℃",
+    "vari": [{ "value": 40, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GK": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승속도 #1",
+    "unit": "℃/min",
+    "vari": [{ "value": 2, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GL": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 80, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GM": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승온도 #1 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 20, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GN": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승속도 #2",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GO": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 80, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GP": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승온도 #2 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GQ": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승속도 #3",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GR": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승온도 #3",
+    "unit": "℃",
+    "vari": [{ "value": 80, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GS": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 상승온도 #3 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GT": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강속도 #1",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GU": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 80, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GV": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강온도 #1 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GW": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강속도 #2",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GX": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 80, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GY": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강온도 #2 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "GZ": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강속도 #3",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HA": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강온도 #3",
+    "unit": "℃",
+    "vari": [{ "value": 80, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HB": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 하강온도 #3 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HC": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 종료속도",
+    "unit": "℃/min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HD": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 종료온도",
+    "unit": "℃",
+    "vari": [{ "value": 80, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HE": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 환원세정 종료온도 유지시간",
+    "unit": "min",
+    "vari": [{ "value": 0, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HF": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세온도 #1",
+    "unit": "℃",
+    "vari": [{ "value": 60, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HG": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세시간 #1",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HH": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세횟수 #1",
+    "unit": "회",
+    "vari": [{ "value": 2, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HI": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세온도 #2",
+    "unit": "℃",
+    "vari": [{ "value": 25, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HJ": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세시간 #2",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HK": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세횟수 #2",
+    "unit": "회",
+    "vari": [{ "value": 1, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HL": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HM": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세시간 #3",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HN": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 수세횟수 #3",
+    "unit": "회",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HO": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 건조온도",
+    "unit": "℃",
+    "vari": [{ "value": 100, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HP": {
+    "category": "Lab 후처리",
+    "name": "Lab 후처리 건조시간",
+    "unit": "min",
+    "vari": [{ "value": 10, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HQ": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 가공제명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HR": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 가공제 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HS": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 가공제 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HT": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 가공제 투입량",
+    "unit": "g/l",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "HU": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 패더장비 ID",
+    "unit": "-",
+    "vari": [{ "value": "P-DY05", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HV": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 패더장비명",
+    "unit": "-",
+    "vari": [{ "value": "실험실 패더", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HW": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 패더압력",
+    "unit": "bar",
+    "vari": [{ "value": 1, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HX": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 패더속도",
+    "unit": "m/min",
+    "vari": [{ "value": 1, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HY": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 텐터장비ID",
+    "unit": "-",
+    "vari": [{ "value": "P-DY06", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "HZ": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 텐터장비명",
+    "unit": "-",
+    "vari": [{ "value": "실험실 텐터", "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "IA": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 건조온도",
+    "unit": "℃",
+    "vari": [{ "value": 180, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "IB": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 건조시간",
+    "unit": "min",
+    "vari": [{ "value": 1, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "IC": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 열풍",
+    "unit": "bar",
+    "vari": [{ "value": 2, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "ID": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 스팀",
+    "unit": "bar",
+    "vari": [{ "value": 2, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "IE": {
+    "category": "Lab 후가공",
+    "name": "Lab 후가공 pick-up율",
+    "unit": "%",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IF": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 원단 중량",
+    "unit": "g",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IG": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #1 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IH": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #1 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "II": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #1 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IJ": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #1 타입",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IK": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #1 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IL": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #2 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IM": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #2 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IN": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #2 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IO": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #2 타입",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IP": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #2 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IQ": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #3 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IR": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #3 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IS": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #3 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IT": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #3 타입",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IU": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #3 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IV": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #4 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IW": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #4 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IX": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #4 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IY": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #4 타입",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "IZ": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 염료 #4 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JA": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 액비",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JB": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 용수량",
+    "unit": "l",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JC": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #1 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JD": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #1 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JE": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #1 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JF": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #1 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JG": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #2 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JH": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #2 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JI": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #2 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JJ": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #2 투입량",
+    "unit": "g/l",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JK": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #3 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JL": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #3 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JM": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #3 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JN": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #3 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JO": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #4 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JP": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #4 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JQ": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #4 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JR": {
+    "category": "Pilot 배합",
+    "name": "Pilot 배합 조제 #4 투입량",
+    "unit": "%(o.w.f)",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JS": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 장비ID",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JT": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 장비명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JU": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 시작온도",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JV": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승속도 #1",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JW": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승온도 #1",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JX": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승온도 #1 유지시간",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JY": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승속도 #2",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "JZ": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승온도 #2",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KA": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승온도 #2 유지시간",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KB": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승속도 #3",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KC": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승온도 #3",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KD": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 상승온도 #3 유지시간",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KE": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강속도 #1",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KF": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강온도 #1",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KG": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강온도 #1 유지시간",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KH": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강속도 #2",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KI": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강온도 #2",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KJ": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강온도 #2 유지시간",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KK": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강속도 #3",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KL": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강온도 #3",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KM": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 하강온도 #3 유지시간",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KN": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 종료속도",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KO": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 종료온도",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KP": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 종료온도 유지시간",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KQ": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 펌프압력",
+    "unit": "rpm",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KR": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 릴속도",
+    "unit": "m/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KS": {
+    "category": "Pilot 염색",
+    "name": "Pilot 염색 재염횟수",
+    "unit": "회",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KT": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 장비ID",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KU": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 장비명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KV": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 조제 #1 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KW": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 조제 #1 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KX": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 조제 #1 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KY": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 조제 #1 투입량",
+    "unit": "g/l",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "KZ": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 조제 #2 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LA": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 조제 #2 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LB": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 조제 #2 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LC": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 조제 #2 투입량",
+    "unit": "g/l",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LD": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 액비",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LE": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 용수량",
+    "unit": "l",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LF": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 시작온도",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LG": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승속도 #1",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LH": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LI": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승온도 #1 유지시간",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LJ": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승속도 #2",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LK": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LL": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승온도 #2 유지시간",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LM": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승속도 #3",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LN": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LO": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 상승온도 #3 유지시간",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LP": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강속도 #1",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LQ": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LR": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강온도 #1 유지시간",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LS": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강속도 #2",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LT": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LU": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강온도 #2 유지시간",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LV": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강속도 #3",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LW": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LX": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 하강온도 #3 유지시간",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LY": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 종료속도",
+    "unit": "℃/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "LZ": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 종료온도",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MA": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 환원세정 종료온도 유지시간",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MB": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MC": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세시간 #1",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MD": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세횟수 #1",
+    "unit": "회",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "ME": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MF": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세시간 #2",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MG": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세횟수 #2",
+    "unit": "회",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MH": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MI": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세시간 #3",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MJ": {
+    "category": "Pilot 후처리",
+    "name": "Pilot 후처리 수세횟수 #3",
+    "unit": "회",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MK": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 장비ID",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "ML": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 장비명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MM": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 원단 투입량",
+    "unit": "g",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MN": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 조제 명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MO": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 조제 제조사명",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MP": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 조제 종류",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MQ": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 조제 투입량",
+    "unit": "g/l",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MR": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오버피드",
+    "unit": "%",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MS": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 pick-up율",
+    "unit": "min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MT": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 패더압력",
+    "unit": "bar",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MU": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 패더압력",
+    "unit": "bar",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MV": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 실제포온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MW": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 실제포온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MX": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 세팅챔버온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MY": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 세팅챔버온도 #1",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "MZ": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조속도 #1",
+    "unit": "m/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NA": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조열풍 #1",
+    "unit": "rpm",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NB": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 실제포온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NC": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 실제포온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "ND": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 세팅챔버온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NE": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 세팅챔버온도 #2",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NF": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조속도 #2",
+    "unit": "m/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NG": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조열풍 #2",
+    "unit": "rpm",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NH": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 실제포온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NI": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 실제포온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NJ": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 세팅챔버온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NK": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 세팅챔버온도 #3",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NL": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조속도 #3",
+    "unit": "m/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NM": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조열풍 #3",
+    "unit": "rpm",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NN": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 실제포온도 #4",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NO": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 실제포온도 #4",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NP": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 세팅챔버온도 #4",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NQ": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 세팅챔버온도 #4",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NR": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조속도 #4",
+    "unit": "m/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NS": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조열풍 #4",
+    "unit": "rpm",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NT": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 실제포온도 #5",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NU": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 실제포온도 #5",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NV": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 세팅챔버온도 #5",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NW": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 세팅챔버온도 #5",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NX": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조속도 #5",
+    "unit": "m/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NY": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조열풍 #5",
+    "unit": "rpm",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "NZ": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 실제포온도 #6",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OA": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 실제포온도 #6",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OB": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 세팅챔버온도 #6",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OC": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 세팅챔버온도 #6",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OD": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조속도 #6",
+    "unit": "m/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OE": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조열풍 #6",
+    "unit": "rpm",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OF": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 실제포온도 #7",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OG": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 실제포온도 #7",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OH": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 오른쪽 세팅챔버온도 #7",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OI": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 왼쪽 세팅챔버온도 #7",
+    "unit": "℃",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OJ": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조속도 #7",
+    "unit": "m/min",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OK": {
+    "category": "Pilot 후가공",
+    "name": "Pilot 후가공 건조열풍 #7",
+    "unit": "rpm",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OL": {
+    "category": "Pilot 후가공 공정 후 물성",
+    "name": "중량",
+    "unit": "g/m2",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OM": {
+    "category": "Pilot 후가공 공정 후 물성",
+    "name": "원단 폭",
+    "unit": "m",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "ON": {
+    "category": "Pilot 전처리 공정 후 물성",
+    "name": "중량",
+    "unit": "g/m2",
+    "vari": [{ "value": 310.8456782, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "OO": {
+    "category": "Pilot 전처리 공정 후 물성",
+    "name": "원단 폭",
+    "unit": "m",
+    "vari": [{ "value": 1.18, "count": 376 }],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "OP": {
+    "category": "Lab 후처리 환원세정 전 검사",
+    "name": "L*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OQ": {
+    "category": "Lab 후처리 환원세정 전 검사",
+    "name": "a*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OR": {
+    "category": "Lab 후처리 환원세정 전 검사",
+    "name": "b*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OS": {
+    "category": "Lab 후처리 환원세정 전 검사",
+    "name": "K/S",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OT": {
+    "category": "Lab 후처리 환원세정 후 검사",
+    "name": "L*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OU": {
+    "category": "Lab 후처리 환원세정 후 검사",
+    "name": "a*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OV": {
+    "category": "Lab 후처리 환원세정 후 검사",
+    "name": "b*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OW": {
+    "category": "Lab 후처리 환원세정 후 검사",
+    "name": "K/S",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OX": {
+    "category": "잔욕염색 검사",
+    "name": "L*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OY": {
+    "category": "잔욕염색 검사",
+    "name": "a*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "OZ": {
+    "category": "잔욕염색 검사",
+    "name": "b*",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "PA": {
+    "category": "잔욕염색 검사",
+    "name": "K/S",
+    "unit": "-",
+    "vari": [],
+    "empty": 376,
+    "empty_ratio": "100%"
+  },
+  "PB": {
+    "category": "Lab 후가공 후 검사",
+    "name": "L*",
+    "unit": "-",
+    "vari": [
+      79.38, 76.12, 73.9, 72.61, 70.15, 61.02, 54.08, 50.62, 48.3, 46.18, 52.84,
+      43.62, 38.21, 35.01, 32.39, 87.43, 70.57, 74.66, 44.91, 71.59, 29.74,
+      38.5, 53.18, 39.58, 57.57, 45.45, 34.24, 50.19, 50.52, 54.55, 53.65,
+      63.15, 60.39, 67.85, 39.79, 40.95, 45.21, 43.86, 51.08, 60.77, 89.03,
+      78.58, 76.82, 69.17, 69.8, 72.8, 71.74, 76.02, 76.65, 79.4, 35.04, 56.65,
+      75.59, 75.86, 78.59, 77.49, 80.89, 81.83, 83.44, 30.6, 31.16, 35.85,
+      34.11, 50.75, 41.88, 55.36, 90.24, 88.94, 83.27, 80.3, 78.92, 76.64,
+      75.12, 71.44, 64.83, 49.11, 43.19, 39.85, 37.59, 35.96, 35.14, 74.94,
+      68.13, 49.43, 40.5, 35.02, 32.13, 29.14, 27.59, 70.67, 69.29, 77.06,
+      71.24, 74.32, 80.76, 78.51, 63.26, 61.92, 71.12, 66.76, 68.21, 76.36,
+      73.83, 42.41, 41.44, 52.63, 45.89, 52.91, 59.09, 58.88, 32.36, 31.84,
+      42.73, 36.82, 46.45, 49.87, 52.68, 27.14, 27.23, 37.32, 31.06, 42.6,
+      48.22, 44.2, 24.3, 25.01, 33.45, 27.99, 40.7, 40.63, 46.33, 88.72, 87.58,
+      81.64, 78.87, 76.83, 75.65, 73.64, 74.06, 78.33, 73.86, 60.51, 54.23,
+      48.02, 46.41, 45.76, 77.15, 70.29, 53.5, 44.69, 39.28, 36.49, 33.19, 31,
+      40.22, 29.93, 25.5, 21.96, 20.3, 19.39, 39.57, 29.51, 25.21, 22.47, 20.15,
+      19.25, 39.47, 30.43, 25.11, 22.19, 20.82, 19.68, 36.21, 28.03, 23.32,
+      21.13, 19.74, 18.9, 37.2, 27.67, 23.04, 20.73, 19.51, 18.86, 37.66, 27.69,
+      23.81, 20.74, 19.66, 18.1, 31.36, 22.72, 17.62, 16.97, 19.72, 17.34,
+      31.45, 22.75, 19.83, 17.94, 17.81, 17.46, 22.83, 20.22, 18.61, 38.17,
+      28.83, 24.33, 21.15, 20.45, 18.89, 38.76, 29.58, 24.32, 22.17, 19.4,
+      18.52, 37.71, 29.02, 24.25, 21.59, 21.47, 18.93, 46.13, 36.79, 29.79,
+      26.9, 25.06, 22.92, 45.68, 35.7, 30.59, 23.69, 22.63, 44.82, 35.43, 30.21,
+      22.45, 24.17, 38.13, 28.85, 21.04, 24.39, 19.92, 18.75, 38.91, 28.64,
+      24.22, 21.28, 19.6, 18.32, 38.08, 28.2, 24.26, 19.7, 18.22, 71.61, 65.27,
+      61.8, 58.66, 56.53, 55.2, 71.82, 66.03, 62.28, 56.93, 54.68, 71.2, 66.19,
+      61.9, 58.86, 57.11, 55.34, 82.15, 80.68, 79.5, 78.13, 76.11, 76.03, 83.22,
+      69.49, 69.68, 73.43, 72.2, 75.9, 79.54, 49.8, 50.79, 55.26, 53.48, 63.07,
+      67.87, 61.7, 82, 41.3, 41.43, 46.94, 44.8, 57.41, 53.05, 61.79, 35.11,
+      35.64, 41.47, 39.15, 53.6, 47.82, 58.04, 31.21, 32.06, 37.96, 35.66,
+      50.92, 44.11, 55.8, 50.58, 49.01, 50.85, 48.41, 49.1, 50.7, 88.55, 86.64,
+      80.08, 76.57, 74.3, 72.67, 71.66, 70.21, 78.55, 73.97, 60.63, 54.45,
+      46.43, 50.74, 50.05, 52.1, 50.76, 50.25, 49.17, 51.02, 48.19, 49.38, 50.4,
+      50.51, 48.93, 49.25, 51.19, 49.94, 51.99, 51.87, 50.1, 51.48, 50.03,
+      49.68, 50.98, 51.46, 49.58, 49.93, 50.26, 51.38, 51.84
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PC": {
+    "category": "Lab 후가공 후 검사",
+    "name": "a*",
+    "unit": "-",
+    "vari": [
+      10.48, 17.96, 21.36, 24.74, 28.32, 54.12, 59.36, 61.02, 61.62, 61.33,
+      -9.42, -8.74, -7.66, -6.67, -5.71, 1, 29.57, 36.76, 61.93, -8.95, -4.4,
+      6.63, 56.38, -18.52, 49.39, -15.88, 8.05, 6.85, 21.19, -16.74, 6.61,
+      46.91, -14.87, 36.48, 7.66, 22.1, -18.02, 6.66, -15.76, 44.44, -0.61,
+      29.33, -8.11, 4.13, 16.4, -12.14, 4.78, 29.66, -11.01, 20.06, 21.86,
+      53.45, 2.98, 13.08, -9.91, 3.89, 22.41, -8.73, 13.88, 8.11, 20.86, -18.16,
+      6.36, 57.6, -15.96, 51.45, -1.7, -0.84, 5.33, 10.23, 14.03, 16.32, 18.73,
+      20.22, 36.41, 43.71, 55.81, 56.98, 56.15, 55, 53.96, 52.63, -8.77, -9.72,
+      -11.17, -10.57, -8.45, -7.35, -6.41, 8.15, 19.63, -10.24, 8.18, 30.54,
+      -9.34, 22.09, 9.09, 23.12, -11.96, 12.31, 37.74, -11.67, 27.86, 12.46,
+      27.24, -15.99, 15.76, 51.83, -16.56, 43.32, 12.07, 25.46, -17.01, 15.83,
+      55.12, -17.97, 49.38, 11.46, 22.66, -16.97, 14.8, 55.38, 51.87, -18.35,
+      10.66, 20.39, -16.63, 13.66, 55.45, -18.46, 53.49, -0.06, 1.27, 7.58,
+      13.05, 15.74, 18.63, 19.55, 22.33, 29.53, 36.42, 54.03, 59.63, 60.8,
+      61.32, 61.28, 60.7, -8.37, -9.17, -10.27, -8.29, -7.43, -6.22, -5.39,
+      -1.39, -2.31, -1.74, -1.31, -1.08, -0.72, -1.46, -2.15, -1.85, -1.67,
+      -1.04, -2.69, -1.89, -2.25, -1.64, -1.2, -0.98, 0.85, 0.62, 0.36, 0.19,
+      0.04, 0, 0.79, 0.48, 0.37, 0.11, 0.07, -0.02, 0.43, 0.18, 0.06, -1.63,
+      -1.24, -0.32, -0.71, -0.08, -1.65, -1.3, -0.8, -0.38, -0.15, -0.74, -0.39,
+      -0.18, 0.03, -0.2, -0.3, -0.16, -0.21, -0.12, -0.19, -0.23, 0.02, -0.4,
+      -0.33, -0.22, -0.24, -0.07, 0.21, 0.28, 0.15, 0.2, 0.12, 0.32, 0.35, 0.14,
+      0.13, 0.17, 0.09, 0.1, -0.01, -0.03, -0.14, -0.11, -0.05, -0.1, 21.72,
+      27.72, 31.11, 32.99, 34.28, 35.75, 21.89, 27.23, 30.64, 32.41, 33.84,
+      35.83, 22.47, 27.1, 30.93, 32.67, 34.09, 35.54, -7.68, 23.29, -8.9, 5.19,
+      13.47, 2.91, 15.24, 3.91, 16.59, -11.04, 6.22, 30.31, -9.93, 21.01, 6.92,
+      21.66, -15.44, 8.63, 47.37, 37.07, -14.33, 7.41, 7.06, 22.35, -16.84,
+      8.56, 52.99, -15.98, 44.56, 7.85, 21.75, -17.15, 8.58, 56.07, -16.58,
+      47.25, 8.49, 20.99, -17.33, 9.28, 57.86, -16.89, 51.92, 11, 10.61, 11.14,
+      10.92, 10.56, 0.55, 2.22, 11.67, 18.26, 25.65, 29.71, 37.56, 54.46, 59.66,
+      61.59, 62.07, 62.21, 10.49, 10.62, 10.21, 10.83, 10.79, 10.44, 10.84,
+      10.68, 10.31, 10.55, 10.81, 10.43, 10.38, 10.24, 10.25, 10.6, 10.01,
+      10.52, 10.42, 10.04, 9.95
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PD": {
+    "category": "Lab 후가공 후 검사",
+    "name": "b*",
+    "unit": "-",
+    "vari": [
+      66.66, 76.31, 78.4, 81.07, 80.86, 8.96, 13.64, 16.47, 18.65, 20.23, -25.8,
+      -28.01, -28.51, -28.71, -28.2, 41.43, 81.82, 2.28, 22.23, -17.15, -27.99,
+      5.98, 35.35, 3.54, 49.81, 25.35, -22.62, -20.25, -12.69, 2.58, 5.39,
+      25.44, 23.9, 39.57, -22.09, -13.97, 2.59, 6.28, 25.89, 46.44, 31.92, 0.96,
+      -14.12, -14.27, -8.81, 0.74, 3.78, 13.3, 17.46, 25.11, -14.47, 32.33,
+      -10.81, -6.86, 0.88, 3.03, 10.19, 13.6, 18.96, -22.52, -14.48, 2.86, 5.49,
+      36.99, 24.53, 50.64, 25.71, 34.56, 60.34, 71.51, 77.35, 80.68, 83.42,
+      84.37, -2.77, -1.35, 6.63, 11.68, 14.78, 16.83, 18.58, 19.11, -13.91,
+      -17.64, -24.62, -25.94, -26.02, -25.54, -24.77, -24.15, -12.96, -9.85,
+      -2.64, -6.36, 2.23, 7.37, 8.34, -15.8, -11.33, -5.25, -5.15, 3.6, 9.04,
+      11.7, -20.4, -13.34, -6.69, -6.43, 12.23, 12.33, 21.39, -20.84, -12.54,
+      -7.43, -6.34, 17.39, 13.13, 26.81, -20.07, -11.61, -7.2, -6.14, 20.39,
+      29.83, 13.15, -19.04, -10.42, -7.14, -5.74, 22.58, 12.73, 31.37, 25.84,
+      35.18, 58.81, 71.53, 75.63, 79.62, 80.8, 83.6, 1.9, 2.61, 9.38, 14.12,
+      16.6, 18.64, 20.11, 20.42, -11.73, -15.08, -26.13, -28.91, -30.2, -30.23,
+      -29.59, -29.5, -1.88, -2.04, -2.06, -2.18, -2.11, -1.55, -2, -2.23, -2.05,
+      -1.94, -1.69, -1.99, -2.26, -2.08, -1.95, 1, 0.31, -0.11, -0.44, -0.73,
+      -0.81, 0.46, 0.09, -0.52, -0.69, -0.84, -0.89, 0.66, 0.1, -0.36, -0.53,
+      -0.8, -1.05, -3.26, -2.57, -1.75, -1.38, -2.16, -1.6, -3.38, -2.65, -2.32,
+      -1.92, -1.58, -1.44, -2.88, -2.58, -2.36, -1.68, -1.5, -0.95, -1.28,
+      -1.29, -1.25, -0.97, -1.23, -1.32, -1.27, -0.57, -1, -1.12, -1.18, -1.19,
+      -1.65, -1.61, -0.92, -1.48, -1.47, -1.63, -1.66, -1.71, -0.64, -1.14,
+      -1.37, -1.59, -1.62, -1.64, -0.94, -1.2, -1.33, -0.65, -1.08, -1.36,
+      -0.45, -1.15, -1.3, 47.56, 53.36, 55.7, 56.36, 56.06, 56.04, 47.92, 53.08,
+      55.78, 56.11, 56.24, 55.9, 48.49, 53.01, 55.53, 55.96, 55.99, 55.68, 9.2,
+      7.55, -0.7, -5.78, -8.86, 14.9, -12.68, -7.69, -2.07, 0.54, 11.33, 11.74,
+      19.3, -19.51, -11.97, -3.14, 0.13, 19.87, 31.23, 16.09, 58.25, -21.3,
+      -13.13, -3.78, -0.12, 25.26, 17.77, 38.35, -21.99, -13.8, -3.74, -0.15,
+      28.74, 17.93, 40.74, -22.24, -13.45, -3.87, -0.76, 30.66, 18.1, 43.41,
+      9.26, 9.43, 9.52, 9.45, 9.18, 32.42, 41.3, 66.36, 76.07, 78.96, 81.29,
+      82.03, 81.96, 2.38, 3.15, 9.46, 13.91, 17.13, 19.09, 20.78, 9.63, 9.55,
+      9.53, 9.72, 9.64, 9.73, 9.57, 9.87, 9.68, 9.58, 9.48, 9.5, 9.22, 9.49,
+      9.32, 9.82, 9.79, 9.77
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PE": {
+    "category": "Lab 후가공 후 검사",
+    "name": "K/S",
+    "unit": "-",
+    "vari": [
+      2.1246, 3.9342, 5.1668, 6.6044, 8.3645, 0.4881, 0.8726, 1.1848, 1.4948,
+      1.8314, 1.0728, 1.9838, 2.852, 3.5693, 4.3258, 0.482, 8.4997, 0.1636,
+      2.1377, 0.2805, 5.2951, 3.0728, 2.6281, 3.7174, 4.1474, 4.694, 2.2338,
+      0.8406, 0.6772, 1.3687, 1.1525, 0.9797, 1.6253, 1.3998, 1.5779, 1.1887,
+      2.5293, 2.1884, 3.2235, 2.8753, 0.2918, 0.1211, 0.1895, 0.2514, 0.2031,
+      0.3551, 0.3265, 0.2715, 0.4318, 0.3911, 1.6821, 1.8637, 0.1679, 0.1464,
+      0.2272, 0.2158, 0.1796, 0.2614, 0.2387, 2.8659, 2.182, 4.7473, 4.0881,
+      3.3707, 6.0166, 5.1758, 0.2434, 0.3932, 1.5569, 2.8648, 3.9948, 5.1444,
+      6.2512, 7.4326, 0.2453, 0.421, 1.6104, 2.876, 4.1297, 5.393, 6.7319,
+      7.5372, 0.2534, 0.4297, 1.5825, 2.8856, 4.2444, 5.3066, 6.6726, 7.6382,
+      0.2507, 0.2561, 0.2655, 0.2678, 0.2524, 0.2648, 0.2489, 0.4211, 0.4183,
+      0.4138, 0.4022, 0.4174, 0.4055, 0.4047, 1.5622, 1.5528, 1.5441, 1.5756,
+      1.5577, 1.5274, 1.5338, 3.0027, 3.0014, 2.9364, 2.826, 2.8716, 2.8565,
+      2.7703, 4.3668, 4.2923, 4.2107, 4.1765, 4.2229, 4.2324, 4.1796, 5.4656,
+      5.2627, 5.4894, 5.2583, 5.3795, 5.2671, 5.1973, 0.2593, 0.4132, 1.411,
+      2.6919, 3.6583, 4.7477, 5.9494, 6.6208, 0.1487, 0.1832, 0.5248, 0.8852,
+      1.2035, 1.5237, 1.7848, 1.881, 0.2345, 0.365, 1.1945, 2.1215, 3.0717,
+      3.7245, 4.7643, 5.7292, 2.6066, 5.2109, 7.2515, 9.7018, 11.563, 12.503,
+      5.334, 8.1339, 9.8266, 11.481, 13.417, 14.255, 6.2018, 8.245, 10.749,
+      12.326, 13.206, 14.013, 4.2689, 7.4725, 10.633, 12.583, 14.008, 15.106,
+      6.1674, 9.9408, 12.518, 14.229, 15.049, 15.815, 7.128, 10.696, 12.585,
+      14.861, 15.114, 16.786, 5.0707, 9.8817, 15.922, 17.415, 12.813, 16.546,
+      7.6426, 12.14, 14.297, 16.389, 17.039, 8.7966, 12.704, 14.285, 15.633,
+      16.906, 17.819, 3.4711, 6.5468, 9.0983, 11.809, 12.561, 14.535, 3.7561,
+      6.6508, 9.5177, 11.242, 14.035, 15.172, 7.2645, 9.6542, 12.011, 13.687,
+      13.872, 15.684, 4.6764, 6.4457, 8.7812, 10.079, 10.771, 12.399, 4.7872,
+      6.6844, 8.4247, 10.225, 12.235, 12.456, 5.9162, 7.878, 9.1484, 13.187,
+      12.281, 3.4776, 6.4802, 12.021, 9.0047, 14.654, 5.9612, 9.4332, 11.422,
+      13.546, 14.954, 16.309, 7.0672, 10.403, 12.066, 14.055, 15.311, 16.788,
+      2.9678, 5.6592, 8.0056, 10.416, 11.98, 13.131, 5.5673, 7.7475, 10.258,
+      12.163, 13.596, 15.043, 6.653, 8.516, 10.628, 12.563, 13.48, 14.389,
+      0.2372, 0.1718, 0.2354, 0.2068, 0.164, 0.2067, 0.2284, 0.3002, 0.2449,
+      0.3663, 0.3181, 0.2714, 0.3841, 0.3371, 0.986, 0.7422, 1.302, 1.0696,
+      0.8038, 1.0595, 1.2743, 1.3769, 1.6736, 1.2864, 2.2076, 1.8169, 1.3634,
+      2.3484, 1.9735, 2.3758, 1.8101, 3.1056, 2.5682, 1.9465, 3.2904, 2.7506,
+      2.9864, 2.3253, 3.9013, 3.1064, 2.499, 4.2676, 3.5133, 2.1606, 2.4085,
+      2.1056, 2.5238, 2.4105, 2.1366, 0.3531, 0.5422, 2.0228, 3.7712, 5.1488,
+      6.7033, 7.6222, 8.7656, 0.1579, 0.1968, 0.523, 0.8694, 1.2221, 1.5225,
+      1.8176, 4.2422, 4.1359, 3.9995, 4.2396, 4.5931, 3.7645, 4.5988, 4.5788,
+      5.3853, 4.6246, 4.3813, 2.2294, 2.4554, 2.3994, 2.1333, 2.2797, 1.9915,
+      3.7643, 3.8387, 3.9802, 4.0937, 4.0918, 3.946, 4.8139, 5.1216, 4.7228,
+      4.4733, 3.9408, 3.9831
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PF": {
+    "category": "내광성 시험 전 검사",
+    "name": "L*",
+    "unit": "-",
+    "vari": [
+      79.15, 75.83, 73.7, 72.58, 69.72, 60.63, 54.27, 50.65, 48.66, 46.5, 52.51,
+      44.27, 39.21, 35.85, 33.23, 85.7, 70.48, 74.3, 45.49, 71.27, 29.97, 38.79,
+      53.13, 40.54, 58.33, 46.47, 35.74, 50.37, 51.33, 54.6, 53.89, 63.06,
+      60.24, 67.29, 41.09, 40.92, 45.38, 44.22, 51.04, 61.3, 86.64, 77.96,
+      76.24, 69.09, 69.7, 72.5, 71.94, 75.59, 76.13, 78.55, 35.96, 56.74, 75.8,
+      76.39, 78.41, 77.5, 80.02, 81.44, 82.25, 31.47, 31.18, 36.72, 35.37, 51.1,
+      42.56, 55.47, 88.02, 86.63, 82.24, 79.79, 77.86, 76.88, 75.37, 73.99,
+      70.49, 64.6, 49.3, 43.56, 39.98, 38.15, 36.03, 35.56, 75.2, 67.34, 49.52,
+      41.05, 35.88, 32.26, 30.03, 28.06, 70.83, 68.95, 76.92, 72.03, 73.68,
+      80.55, 77.71, 63.34, 61.98, 71.48, 66.04, 67.23, 75.77, 73.45, 42.22,
+      41.93, 51.63, 46.25, 53.59, 59.29, 59.36, 32.84, 32.01, 43.37, 37, 46.77,
+      50.03, 51.8, 27.61, 28.41, 37.4, 32.4, 43.09, 49.22, 44.02, 25.71, 25.03,
+      34.31, 28.51, 41.31, 40.2, 46.26, 85.26, 80.67, 78.11, 75.9, 75.21, 72.86,
+      74.13, 77.58, 73.02, 60.71, 51.23, 48.43, 46.7, 46.19, 76.69, 70.25,
+      54.14, 44.89, 40.03, 37.15, 33.8, 31.67, 40.62, 31.59, 27.42, 24.64,
+      22.61, 21.72, 41.41, 31.97, 27.28, 24.53, 22.63, 21.88, 41.69, 32.29,
+      25.76, 23.76, 21.97, 21.52, 36.84, 29.04, 24.66, 22.78, 21.68, 20.26,
+      37.99, 28.57, 24.16, 22.44, 19.85, 37.92, 28.47, 25.45, 22.38, 20.91,
+      19.86, 31.53, 23.45, 19.4, 17.5, 21.24, 18.41, 31.87, 24.47, 21.14, 19.82,
+      19.17, 18.9, 32.53, 22.77, 22, 20.28, 19.26, 18.51, 37.28, 29.73, 25.51,
+      22.39, 21.81, 20.5, 39.11, 30.21, 25.77, 23.65, 20.87, 20.14, 37.85, 30.2,
+      25.14, 22.92, 21.86, 46.62, 37.57, 30.19, 27.51, 26.02, 24.76, 36.57,
+      30.99, 28.6, 26.58, 23.69, 45.1, 36.09, 31.49, 27.87, 23.67, 25.39, 38.55,
+      22.73, 25.2, 21.45, 19.83, 38.81, 29.75, 24.7, 24.05, 21.42, 20.11, 38.34,
+      28.94, 25.57, 22.46, 21.54, 20.31, 71.7, 65.2, 62.02, 58.56, 56.92, 55.87,
+      71.05, 65.76, 62.43, 58.89, 57.06, 54.92, 71.13, 65.66, 62.17, 59.63,
+      57.17, 56.08, 81.78, 79.6, 79.16, 78.15, 75.91, 82.4, 69.5, 69.78, 73.05,
+      72.42, 77.01, 78.64, 50.19, 55.19, 53.33, 62.74, 67.77, 61.75, 80.86,
+      41.53, 41.99, 47.64, 45.93, 57.72, 53.34, 62.28, 35.6, 36.81, 38.71,
+      53.12, 48.62, 58.63, 31.52, 38.91, 36.21, 50.89, 44.47, 55.8, 50.92,
+      48.86, 50.96, 49.42, 49.73, 51.25, 86.7, 85.18, 75.92, 73.36, 72.49,
+      71.25, 70.04, 77.83, 73.64, 60.27, 54.41, 48.34, 46.53, 51.15, 50.49,
+      51.98, 49.6, 49.41, 51.32, 51.2, 49.61, 50.63, 49.4, 49.81, 51.67, 50.71,
+      48.24, 49.53, 50.84, 50.8, 52.61, 51.85, 50.32, 52.27, 48.89, 50.16,
+      51.42, 51.83, 50.3, 50.04, 49.91, 52.45
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PG": {
+    "category": "내광성 시험 전 검사",
+    "name": "a*",
+    "unit": "-",
+    "vari": [
+      7.49, 14.91, 18.95, 21.31, 26.58, 52.84, 58.31, 59.97, 60.77, 60.29,
+      -9.24, -8.68, -7.69, -6.72, -5.64, -1.55, 26.26, 33.12, 61.43, -9.18,
+      -4.16, 6.51, 55.04, -18.24, 46.98, -16.05, 7.9, 6.57, 20.85, -16.54, 6.59,
+      44.96, -14.8, 34.41, 7.5, 21.37, -17.7, 6.64, -15.83, 42.3, -2.4, 25.92,
+      -8.23, 3.73, 15.89, -12.23, 4.51, 26.14, -11.1, 16.4, 52.01, 2.7, 12,
+      -9.71, 3.71, 18.89, -8.36, 10.71, 7.86, 20.42, -17.73, 6.44, 56.46,
+      -15.93, 49.89, -3.16, -2.5, 2.79, 7.43, 11.71, 13.49, 16.56, 18.71, 33.5,
+      41.09, 54.4, 55.59, 54.96, 54.2, 52.78, 51.52, -8.67, -9.77, -11.02,
+      -10.55, -9.33, -7.96, -7.12, -6.16, 7.72, 19.25, -10.11, 7.76, 27.58,
+      8.92, 22.83, -11.93, 11.93, 35.51, -11.69, 24.87, 12.04, 26.3, -15.91,
+      15.42, 49.55, -16.24, 40.9, 11.69, 24.8, -16.68, 15.29, 53.58, -17.72,
+      48.13, 11.07, 22.49, -16.56, 14.57, 53.55, 49.86, -17.74, 10.37, 19.21,
+      -16.17, 13.41, 54.31, -18.21, 52.29, -1.77, -1, 5.07, 10.02, 13.86, 16,
+      17.99, 18.91, 26.12, 34.22, 52.26, 58.66, 59.85, 60.88, 60.53, 60.01,
+      -8.48, -9.26, -10.41, -9.44, -8.24, -7.43, -5.99, -5.2, -1.58, -2.33,
+      -1.86, -1.3, -0.98, -0.7, -1.78, -2.26, -1.87, -1.57, -1.18, -0.86, -2.78,
+      -1.85, -2.08, -1.52, -1.08, -0.8, 0.71, 0.66, 0.37, 0.4, 0.22, 0.06, 0.86,
+      0.63, 0.44, 0.79, 0.68, 0.48, 0.33, 0.26, 0.12, -1.6, -1.14, -0.15, 0,
+      -0.56, -0.11, -1.63, -1.13, -0.58, -0.31, -0.07, -1.04, -0.65, -0.3,
+      -0.17, -0.02, -0.4, -0.24, -0.03, 0.02, -0.22, -0.13, -0.1, 0.11, -0.32,
+      -0.28, -0.2, -0.09, -0.14, 0.16, 0.07, 0.17, 0.13, 0.18, 0.14, 0.2, -0.01,
+      0.01, 0.05, -0.21, 0.04, 0.03, -0.18, -0.08, 19.81, 26.57, 29.47, 32.25,
+      33.08, 34.29, 20.23, 26.21, 29.42, 31.86, 33.27, 35.19, 20.52, 26.28,
+      29.66, 31.31, 33.16, 34.51, -7.46, 19.72, -8.76, 4.69, 12.67, 2.61, 11.51,
+      3.68, 16.21, -10.98, 6.06, 27.22, -10.01, 17.98, 6.62, 21.47, -15.21,
+      8.36, 44.45, 34.24, -14.26, 5.69, 6.89, 22.16, -16.62, 8.65, 52.18,
+      -15.66, 42.38, 7.6, 22.09, -16.97, 8.18, 55.25, -16.59, 47.12, 8.45, 8.98,
+      57.17, 50.27, 10.62, 11.1, 10.6, 10.99, 10.8, 10.45, -0.37, 8.85, 15.57,
+      20.16, 22.95, 25.13, 26.84, 34.6, 53.16, 58.79, 61.65, 61.62, 10.53,
+      10.57, 10.27, 10.54, 10.42, 10.07, 10.38, 9.93, 10.29, 10.31, 9.84, 10.24,
+      10.68, 10.3, 9.94, 9.98, 10.19, 9.74, 10.39, 10.41, 10.11, 10.25, 9.66,
+      9.61
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PH": {
+    "category": "내광성 시험 전 검사",
+    "name": "b*",
+    "unit": "-",
+    "vari": [
+      63.03, 74.03, 77.57, 78.93, 80.48, 9.46, 13.98, 16.8, 18.99, 20.39, -25.8,
+      -27.67, -28.54, -28.41, -28.15, 37.21, 80.27, 1.78, 22.52, -16.63, -27.66,
+      6.19, 35.52, 2.86, 49.14, 25.68, -22.36, -19.85, -12.12, 2.23, 5.57,
+      25.34, 24.06, 38.71, -21.6, -13.61, 2.39, 6.16, 25.57, 45.56, 28.47, 0.43,
+      -13.33, -13.72, -8.01, 1.02, 4.13, 12.35, 17.93, 23.88, -14.09, 31.75,
+      -9.82, -5.81, 1.23, 3.44, 9.27, 13.31, 16.75, -22.17, -14.1, 2.36, 4.86,
+      36.8, 23.85, 49.66, 22.96, 33.63, 58.09, 68.87, 75.28, 78.72, 81.27,
+      83.41, -2.69, -1.57, 6.45, 11.36, 14.58, 16.56, 18.32, 19.06, -12.72,
+      -17.61, -24.04, -25.63, -25.72, -24.9, -24.46, -23.58, -12.3, -9.53,
+      -2.28, -5.71, 1.63, 7.72, 7.73, -15.56, -10.87, -4.74, -4.89, 3.29, 9.29,
+      10.8, -20.22, -13.18, -6.59, -6.17, 11.28, 12.07, 20.59, -20.41, -12.18,
+      -7.32, -6.18, 16.78, 12.68, 26.85, -19.63, -11.54, -7.12, -6.03, 19.51,
+      28.8, 12.71, -18.63, -9.96, -7.14, -5.54, 21.94, 12.6, 31.11, 23.77,
+      33.51, 56.99, 70.11, 74.46, 77.37, 79.2, 81.14, 1.29, 2.45, 14.49, 16.67,
+      18.88, 20.4, 20.71, -10.97, -14.92, -26.01, -28.7, -29.83, -29.93, -29.32,
+      -29.13, -1.58, -2.03, -1.78, -1.93, -1.73, -1.82, -1.41, -1.75, -2.1,
+      -2.01, -1.83, -1.67, -1.48, -1.86, -2, -1.91, -1.74, -1.66, 1.04, 0.28,
+      -0.09, -0.4, -0.79, -0.65, 0.52, 0.23, -0.52, -0.57, -0.7, 0.7, 0.06,
+      -0.39, -0.55, -0.71, -0.86, -2.94, -2.35, -1.5, -1.12, -1.99, -1.32,
+      -3.29, -2.6, -2.13, -1.76, -1.37, -1.19, -2.55, -2.23, -1.35, -1.18, -1,
+      -1.2, -1.24, -1.14, -1.02, -1.09, -1.13, -1.07, -1.11, -0.6, -1.03, -1.1,
+      -1.23, -0.89, -1.45, -1.51, -1.43, -1.3, -1.36, -1.47, -1.22, -1.53,
+      -1.06, -1.4, -0.67, -1.15, -1.08, -0.29, -1.04, -1.25, -1.21, 46.75,
+      52.78, 54.28, 55.42, 54.99, 54.98, 46.8, 52.61, 55.01, 55.29, 55.68,
+      55.33, 47.3, 52.68, 54.44, 55.04, 55.05, 9.32, 6.75, 1.48, -5.46, -8.33,
+      13.64, -12.27, -7.07, -2.04, 0.97, 10.49, 11.88, 18.37, -19.16, -11.48,
+      -3.3, 0.3, 18.56, 29.31, 16.04, 56.44, -21.18, -13.09, -3.72, 0.01, 24.91,
+      17.66, 37.05, -21.33, -13.75, -3.66, -0.19, 28.67, 18.13, 40.88, -22.13,
+      -13.67, -3.98, -0.87, 30.46, 18.42, 42.89, 9.76, 9.92, 9.61, 9.96, 9.82,
+      9.71, 29.66, 38.75, 64.36, 74.82, 79, 80.46, 81.04, 81.4, 1.52, 2.22,
+      9.09, 13.53, 16.61, 19.02, 20.62, 9.97, 10.11, 10.01, 10.16, 9.98, 10.09,
+      9.62, 10, 10.4, 9.91, 10.12, 9.99, 9.58, 9.78, 9.51, 10.15, 9.8, 9.89,
+      10.44, 10.13, 10.17, 10.02
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PI": {
+    "category": "내광성 시험 후 검사",
+    "name": "L*",
+    "unit": "-",
+    "vari": [
+      82.19, 78.3, 76.54, 74.55, 71.93, 66.9, 59.3, 55.41, 52.35, 50.23, 60.13,
+      49.17, 42.98, 38.72, 35.88, 89.25, 71.84, 80.03, 47.93, 76.83, 33.12,
+      45.23, 57.18, 43.96, 61.05, 49.36, 42.99, 58.75, 59.02, 60.83, 61.51,
+      68.59, 65.03, 72, 48.68, 50.69, 50.09, 51.85, 55.12, 65.28, 90.3, 82.68,
+      81.23, 74.9, 74.87, 77.73, 77.08, 79.9, 80.19, 82.49, 42.64, 60.86, 80.17,
+      81.16, 83.24, 81.63, 84.41, 85.13, 85.19, 37.67, 39.03, 40.24, 40.27,
+      54.66, 45.14, 58.57, 91.62, 90.98, 86.21, 83.35, 79.81, 79.52, 78.65,
+      77.67, 76.45, 71.04, 55.88, 49.49, 44.26, 41.36, 38.8, 39.44, 79.47, 73.7,
+      55.33, 44.33, 37.65, 34.16, 30.74, 28.78, 76.89, 75.48, 81.68, 78, 79.54,
+      85.18, 82.95, 69.34, 69.57, 72.75, 73.59, 80.45, 77.97, 51.69, 50.61,
+      54.69, 59.47, 64.35, 66.09, 40.44, 39.8, 49.54, 45.04, 52.27, 54.6, 58.25,
+      33.04, 32.73, 42.54, 39.3, 48.22, 52.54, 48.74, 29.14, 30.07, 36.01, 34.7,
+      44.38, 44.25, 50.11, 90.32, 89.45, 84.39, 81.7, 79.23, 78.27, 76.48,
+      75.55, 81.38, 78.35, 65.31, 59.01, 55.22, 51.61, 49.98, 48.9, 80.75,
+      75.66, 58.04, 47.45, 41.54, 38.25, 34.55, 32.11, 47.78, 36.47, 30.03,
+      27.37, 24.35, 23.14, 42.79, 33.61, 29.48, 25.64, 23.01, 22.28, 42.73,
+      33.43, 28.51, 25.98, 23.94, 22.8, 43.6, 33.79, 28.06, 25.3, 22.74, 21.94,
+      42.02, 31.94, 26.38, 23.33, 22.36, 21.16, 40.02, 30.92, 26.78, 23.77,
+      22.12, 20.56, 39.16, 29.46, 21.58, 20.31, 24.58, 20.74, 26.71, 36.07,
+      23.9, 21.32, 19.88, 19.36, 34.36, 26.32, 23.27, 21.21, 20.79, 19.65,
+      45.69, 36.34, 30.52, 26.96, 25.76, 23.38, 43.65, 34.01, 29.24, 24.98,
+      22.98, 21.65, 41.1, 32.44, 27.15, 25.49, 25.69, 21.82, 49.5, 40.83, 34.14,
+      30.77, 28.63, 27.22, 48.98, 39.57, 34.49, 30.2, 28.42, 25.85, 47.23,
+      37.99, 33.29, 29.8, 25.13, 27.32, 46.17, 37.31, 26.54, 29.28, 24.83,
+      22.54, 42.3, 32.43, 27.94, 25.94, 22.01, 21.05, 40.26, 31.75, 27.72,
+      24.02, 22.66, 20.97, 71.33, 65.93, 63.63, 61, 59.04, 73.51, 68.53, 64.81,
+      62.1, 60.18, 57.69, 73.01, 68.1, 63.97, 61.36, 59.9, 57.02, 85.39, 82.79,
+      83.41, 82, 80.57, 80.68, 86.2, 74.94, 75.35, 77.94, 77.8, 80.64, 81.61,
+      83.54, 57.6, 58, 59.87, 61.54, 68.19, 72.7, 66.62, 84.82, 48.94, 50.25,
+      51.66, 52.34, 62.85, 57.57, 66.42, 42.78, 43.67, 46.87, 47.17, 58.5, 52.3,
+      62.43, 36.46, 39.34, 40.9, 41.12, 54.77, 59.32, 59.26, 55.72, 56.49,
+      55.03, 55.82, 56.03, 90.79, 88.95, 82.43, 78.53, 76.64, 74.72, 73.42,
+      72.43, 83.32, 79.34, 66.18, 59.52, 55.1, 51.8, 50.4, 52.31, 53.76, 50.81,
+      51.19, 52.29, 52.42, 50.63, 51.91, 50.28, 51.24, 51.67, 54.57, 54.85,
+      55.18, 56.45, 55.76, 59.21, 53.53, 51.62, 54.14, 51.37, 51.97, 53.31,
+      52.96, 51.4, 51.02, 51.83, 53.16, 53.42
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PJ": {
+    "category": "내광성 시험 후 검사",
+    "name": "a*",
+    "unit": "-",
+    "vari": [
+      12.12, 18.93, 22.88, 26.46, 31.29, 44.6, 51.88, 53.56, 54.26, 53.94,
+      -4.85, -4.32, -3.59, -3.1, -2.46, 1.11, 31.43, 27.41, 54.12, -6.44, -2.3,
+      7.38, 49.27, -9.95, 43.79, -8.56, 7.89, 6.72, 17.16, -9.46, 6.81, 39.22,
+      -9.29, 31.5, 7.95, 19.13, -9.53, 7.52, -9.28, 38.82, -0.16, 22.63, -6.62,
+      3.17, 12.82, -9.03, 4.35, 23.63, -7.91, 15.22, 19.45, 46.63, 2.04, 9.66,
+      -7.18, 3.01, 17.34, -6.75, 10.43, 7.53, 18.91, -8.96, 7.13, 50.22, -9.68,
+      46.85, -1.44, -0.97, 5.46, 11.27, 15.18, 18.87, 20.54, 22.68, 28.78,
+      35.19, 48.95, 53.14, 54.77, 53.92, 53.18, 53.95, -6.43, -6.39, -6, -5.14,
+      -4.98, -4.9, -3.49, -3.8, 6.09, 15.11, -7.78, 6.3, 23.16, -7.21, 16.73,
+      7.17, 17.77, -8.69, 9.52, 29.28, 21.77, 11.02, 22.42, -9.71, 13, 44.37,
+      -10.66, 35.91, 11.29, 23.66, -7.87, 14.05, 50.47, -11.65, 44.01, 10.94,
+      22, -8.68, 13.76, 51.37, 46.12, -11.83, 9.92, 20.64, -10.54, 13.33, 53.74,
+      -11.2, 50.6, -0.59, 0.5, 7.51, 13.55, 19.94, 21.66, 24.48, 21.84, 28.31,
+      45.54, 50.48, 52.35, 52.88, 54.13, 53.01, -6.54, -5.23, -4.74, -3.88,
+      -3.73, -3.74, -3.38, 1.13, -0.07, -0.48, -0.05, -0.5, -0.52, -1.34, -0.9,
+      -1.3, -1.19, -0.85, -0.81, -2.4, -1.67, -1.68, -1.15, -0.7, 2.73, 2.24,
+      1.54, 1.07, 0.71, 0.63, 0.91, 0.72, 0.55, 0.44, 0.35, 0.3, 0.47, 0.49,
+      0.33, 0.26, 0.17, 0.6, 0.2, 0.16, 0.24, 0.22, -0.6, -0.23, -0.04, 0.06,
+      -1.45, -0.29, 0.18, 0.9, 0.28, 0.36, 0.12, -0.21, -0.2, -0.19, -0.11,
+      -0.94, -0.68, -0.44, -0.33, -0.01, 0.32, 0.23, 0.25, 0.13, -0.35, -0.03,
+      -0.1, 1.06, 1.21, 0.31, 0.05, -0.62, -0.34, -0.02, 0, -0.75, -0.14, -0.12,
+      16.37, 22.16, 27.17, 28.12, 29.62, 31.52, 20.83, 26.05, 28.77, 30.02,
+      31.38, 33.21, 21.54, 25.92, 29.75, 31.28, 31.82, 33.74, -6.11, 17.39,
+      -7.04, 4.1, 10.57, 2.18, 11.7, 3.65, 13.11, -8.02, 4.97, -7.28, 15.94,
+      7.07, 17.89, -9.34, 7.91, 39.89, 31.91, -9.04, 7.33, 7.47, 19.38, -8.93,
+      8.59, 45.45, -9.85, 39.08, 8.14, 19.17, -9.3, 8.88, 48.66, -8.84, 43.22,
+      7.81, 18.49, -9.75, 9.22, 51.29, -10.53, 46.81, 9.54, 10.35, 10.13, 10.53,
+      10.26, 10.07, 1.74, 12.36, 20.48, 23.34, 27.53, 30.11, 30.88, 28.11,
+      46.37, 51.81, 53.96, 55.18, 55.72, 10.55, 10.56, 10.22, 10.75, 10.4,
+      10.09, 10.51, 10.29, 10.64, 10.45, 10.2, 10.17, 9.88, 10.02, 9.2, 10.11,
+      10.52, 9.98, 10.32, 10.18, 9.86, 10.42, 10.33
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PK": {
+    "category": "내광성 시험 후 검사",
+    "name": "b*",
+    "unit": "-",
+    "vari": [
+      62.25, 72.91, 76.71, 79.48, 80.62, 7.49, 11.57, 13.46, 15.43, 16.36,
+      -18.05, -21.05, -21.67, -21.56, -21.28, 32.59, 81.52, 3.11, 17.56, -10.54,
+      8.07, 31.34, 2.68, 47.78, 24.15, -15.41, -13.33, -7.73, 2.37, 5.2, 21.29,
+      22.04, 34.77, -14.86, -8.6, 3.07, 6.23, 24.41, 42.88, 24.56, 2.76, -8.01,
+      -8.53, -4.99, 2.2, 3.75, 11.58, 14.91, 19.92, -8.96, 27.83, -5.85, -2.57,
+      4.08, 8.9, 12.48, 15.97, -16.13, -9.09, 2.02, 7.45, 32.36, 24.18, 48.91,
+      21.47, 29.05, 53.53, 66.78, 72.62, 78.53, 81.28, 83.22, -1.12, -0.44,
+      4.81, 8.44, 12.12, 14.22, 16.74, 16.05, -9.03, -12.56, -19.93, -21.59,
+      -21.62, -21.48, -19.99, -19.79, -8.17, -6.32, -0.59, -3.03, 2.93, 7, 7.89,
+      -11.82, -7.78, -3.2, -3.09, 3.62, 8.12, 10.16, -15.93, -10.56, -5.71,
+      -4.62, 9.83, 9.62, 18.54, -17.22, -11.23, -6.96, -4.81, 14.81, 11.83,
+      25.21, -17.88, -10.89, -7.26, -4.63, 17.22, 27.61, 11.82, -16.25, -9.85,
+      -7.06, -4.86, 20.5, 11.41, 30.82, 20.57, 27.78, 53.45, 66.81, 78.15,
+      80.26, 82.71, 2.69, 3.54, 7.85, 11.06, 13.1, 14.77, 16.25, 16.16, -8.68,
+      -12.58, -20.09, -22.09, -22.48, -22.64, -22.39, -22.4, -0.12, -0.16,
+      -0.39, -1.02, -0.9, -1.28, -2.11, -3.45, -2.45, -2.19, -2.09, -1.78,
+      -3.25, -2.87, -3.1, -2.82, -2.46, -2, 1.83, 1.02, 0.56, 0.02, -0.1, 0.06,
+      0.18, -0.22, -0.23, -0.36, -0.49, 0.07, -0.19, -0.35, -0.38, -0.56, -5,
+      -4.13, -2.16, -1.41, -2.97, -1.84, -3.34, -4.5, -2.94, -2.18, -1.66,
+      -1.38, -3.71, -2.99, -2.77, -1.83, -1.47, -3.81, -3.91, -3.4, -2.79,
+      -2.67, -3.18, -3.32, -2.86, -2.37, -2.05, -1.69, -2.2, -2.63, -2.28,
+      -2.41, -1.76, -1.08, -0.98, -0.84, -0.75, -0.64, -1.24, -0.85, -0.8,
+      -1.39, -1.5, -1.11, -1.37, -1.15, -1.32, -4.16, -4.55, -3.39, -2.81,
+      -2.08, -3.24, -2.93, -2.7, -1.51, -2.26, -2.48, -2.44, 32.64, 40.65,
+      46.74, 47.99, 48.87, 50.16, 42.9, 47.66, 50.6, 50.37, 51.28, 52.13, 43.85,
+      48.32, 51.43, 51.75, 51.59, 52.28, 8.65, 7.06, 0.26, 1.96, -2.89, -6.02,
+      12.68, -8.89, -5.1, 1.34, 9.05, 9.79, 15.58, -14.64, -8.61, -2.92, 0.22,
+      16.68, 27.72, 13.75, 52.72, -16.14, -9.22, -3.65, 0.99, 21.06, 16.24,
+      35.36, -16.64, -9.36, -3.44, 1.42, 24.46, 15.54, 39.14, -16.52, -9.32,
+      -3.49, 1.57, 26.64, 17.06, 41.92, 11.32, 11.29, 10.78, 11.26, 11.09,
+      26.33, 33.36, 62.32, 74.95, 77.56, 79.81, 82.24, 81.58, 2.52, 3.14, 7.59,
+      11.02, 13.48, 15.46, 16.45, 10.3, 10.24, 10.27, 10.38, 10.37, 9.96, 10.06,
+      10.22, 10.1, 10.4, 11.1, 11.13, 10.9, 10.62, 10.77, 10.42, 10.21, 10.39,
+      10.45, 10, 10.04, 10.17, 10.12, 10.11
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PL": {
+    "category": "내광성 시험 후 검사",
+    "name": "내광성등급",
+    "unit": "급",
+    "vari": [
+      { "value": "3-4", "count": 38 },
+      { "value": "1-2", "count": 135 },
+      { "value": 2, "count": 69 },
+      { "value": 3, "count": 39 },
+      { "value": 4, "count": 59 },
+      { "value": "2-3", "count": 26 },
+      { "value": "4-5", "count": 7 },
+      { "value": 5, "count": 1 },
+      { "value": 1, "count": 2 }
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  },
+  "PM": {
+    "category": "내광성 시험 후 검사",
+    "name": "색차",
+    "unit": "△E",
+    "vari": [
+      5.67333333333333, 4.93, 5.566666666666666, 5.283333333333332,
+      10.543333333333335, 8.513333333333334, 8.653333333333334, 8.29,
+      8.406666666666666, 11.729999999999999, 9.316666666666666,
+      8.843333333333332, 8.273333333333333, 8.03, 6.416666666666667,
+      5.493333333333333, 8.206666666666667, 9.173333333333334,
+      8.686666666666666, 7.3566666666666665, 6.766666666666667,
+      8.196666666666667, 9.046666666666667, 4.413333333333333,
+      8.176666666666668, 10.049999999999999, 10.62, 9.590000000000002,
+      9.426666666666668, 7.633333333333333, 8.943333333333333,
+      7.576666666666667, 6.796666666666667, 10.173333333333334,
+      11.206666666666669, 9.466666666666667, 7.69, 7.829999999999999,
+      5.923333333333333, 5.806666666666666, 6.206666666666667,
+      7.473333333333333, 7.816666666666666, 6.73, 6.25, 5.153333333333333,
+      5.0566666666666675, 5.989999999999999, 5.716666666666666, 8.63,
+      7.833333333333333, 5.946666666666666, 6.216666666666666, 5.57,
+      4.243333333333333, 4.636666666666667, 4.113333333333333,
+      3.1133333333333333, 8.68, 9.436666666666666, 9.49, 5.62, 8.45,
+      6.776666666666667, 4.27, 6.506666666666667, 6.693333333333334,
+      5.666666666666667, 4.963333333333334, 6.003333333333333,
+      5.260000000000001, 5.533333333333334, 7.7633333333333345,
+      8.803333333333333, 8.69666666666667, 7.046666666666667, 4.946666666666666,
+      4.026666666666666, 3.22, 5.486666666666667, 6.080000000000001,
+      8.799999999999999, 8.713333333333333, 7.5, 6.256666666666667,
+      4.9799999999999995, 5.803333333333334, 4.536666666666666,
+      7.509999999999999, 8.373333333333333, 5.5566666666666675, 6.71,
+      7.456666666666667, 5.09, 5.673333333333333, 7.286666666666666, 9.63,
+      6.133333333333334, 7.346666666666667, 8.923333333333332, 5.55,
+      5.5200000000000005, 10.443333333333333, 9.856666666666667,
+      8.379999999999999, 8.923333333333334, 7.986666666666667,
+      7.926666666666667, 8.633333333333333, 8.26, 7.9366666666666665,
+      10.783333333333333, 8.25, 6.62, 7.646666666666666, 5.713333333333334,
+      9.406666666666666, 7.096666666666667, 6.033333333333334,
+      7.666666666666667, 4.223333333333334, 5.246666666666666,
+      5.883333333333333, 6.226666666666667, 3.436666666666666,
+      8.196666666666665, 4.216666666666667, 5.033333333333334,
+      7.266666666666667, 6.233333333333333, 5.096666666666667,
+      5.053333333333334, 5.286666666666667, 5.983333333333333,
+      5.906666666666666, 8.06, 8.28, 10.06, 9.226666666666667,
+      9.533333333333333, 8.303333333333333, 8.776666666666666, 6.5,
+      8.786666666666667, 8.503333333333334, 8.686666666666667,
+      8.293333333333331, 7.333333333333333, 7.013333333333333,
+      7.786666666666666, 5.6866666666666665, 3.2733333333333334, 3.14,
+      1.9833333333333334, 1.5333333333333332, 1.62, 2.733333333333333,
+      2.2966666666666664, 1.1933333333333334, 0.5866666666666668, 0.41,
+      2.0933333333333333, 1.58, 2.986666666666667, 2.4333333333333336,
+      2.1133333333333333, 1.3433333333333335, 7.243333333333333, 5.25,
+      3.763333333333333, 2.7933333333333334, 1.45, 1.8699999999999999, 4.06,
+      3.3800000000000003, 2.2399999999999998, 0.9866666666666667,
+      0.9366666666666666, 1.366666666666667, 2.22, 2.4599999999999995,
+      1.3466666666666667, 1.4033333333333333, 1.2733333333333334,
+      0.7733333333333333, 6.44, 2.3066666666666666, 2.8233333333333337, 3.58,
+      2.4166666666666665, 5.259999999999999, 11.753333333333332,
+      2.9033333333333338, 1.5866666666666667, 0.7866666666666666,
+      0.5233333333333333, 2.1966666666666668, 1.43, 1.0766666666666669,
+      1.6033333333333335, 1.2133333333333334, 8.966666666666667,
+      7.239999999999999, 5.510000000000001, 4.836666666666667,
+      4.263333333333334, 5.013333333333333, 4.403333333333333,
+      3.8266666666666667, 1.8966666666666667, 2.3533333333333335,
+      1.626666666666667, 3.6733333333333333, 2.783333333333333,
+      2.346666666666667, 2.8766666666666665, 4.016666666666667,
+      1.1066666666666667, 2.8866666666666667, 3.983333333333333,
+      3.3433333333333337, 2.723333333333333, 2.61, 2.513333333333333,
+      3.0033333333333334, 3.533333333333333, 1.7333333333333332,
+      1.9466666666666665, 2.266666666666667, 2.3000000000000003, 1.95,
+      1.8233333333333333, 1.9333333333333333, 1.4966666666666668,
+      8.316666666666666, 4.5633333333333335, 3.7433333333333336, 2.84,
+      4.213333333333334, 3.59, 3.6766666666666663, 2.4466666666666668,
+      1.6300000000000001, 1.0433333333333332, 2.7999999999999994,
+      3.2899999999999996, 2.5866666666666664, 1.97, 1.4400000000000002,
+      0.8566666666666666, 15.5, 14.286666666666667, 8.813333333333334, 9.9,
+      8.14, 6.406666666666666, 4.7, 5.7, 5.053333333333333, 6.153333333333333,
+      5.75, 4.6933333333333325, 4.096666666666667, 5.05, 3.6966666666666668,
+      4.6, 3.03, 3.9, 4.053333333333333, 4.653333333333332, 3.9233333333333325,
+      5.990000000000001, 5.32, 3.94, 6.413333333333334, 6.68, 5.81,
+      5.503333333333334, 7.116666666666667, 5.743333333333333,
+      6.003333333333334, 8.696666666666667, 7.716666666666666,
+      7.533333333333332, 8.223333333333333, 7.35, 5.68, 7.51, 5.72, 8.99, 9.53,
+      8.7, 6.49, 9.3, 7.33, 5.56, 8.6, 8.66, 9.35, 8.64, 9.5, 8.98, 5.73, 8.07,
+      5.5, 8.02, 6.91, 5.03, 8.56, 7.04, 5.78, 6.24, 4.92, 5.59, 4.82, 5.14,
+      7.22, 9.12, 9.01, 8.54, 8.17, 8.21, 1.21, 1.15, 1.79, 1.25, 1.8, 1.19,
+      1.22, 1.03, 1.48, 0.96, 1.46, 0.86, 4.09, 6.7, 5.74, 5.13, 6.75, 1.7,
+      1.36, 1.93, 2.51, 1.82, 2, 1.18, 1, 1.92, 0.92, 1.05
+    ],
+    "empty": 0,
+    "empty_ratio": "0%"
+  }
+}

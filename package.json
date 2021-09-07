@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/amkorousagi/excel_test/issues"
   },
-  "homepage": "https://github.com/amkorousagi/excel_test#readme"
+  "homepage": "https://github.com/amkorousagi/excel_test#readme",
+  "dependencies": {
+    "xlsx": "^0.17.1"
+  },
+  "type": "module"
 }

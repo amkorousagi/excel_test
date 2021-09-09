@@ -27,9 +27,7 @@ const main = async () => {
   console.log(workbook.SheetNames);
   const worksheet = workbook.Sheets[workbook.SheetNames[0]];
   console.log(worksheet["OP4"]);
-  console.log(getColName(29));
   console.log(getColNumber("PM"));
-  console.log(getColNumber("AC"));
   const meta = {};
   let recent_category = "기본";
   for (let col = 3; col <= getColNumber("PM"); col++) {
@@ -54,6 +52,12 @@ const main = async () => {
           vari[vari.findIndex((e) => e.value == cell.v)].count++;
         }
       } else {
+        if (vari.find((e) => e.value == undefined) === undefined) {
+          vari.push({ value: undefined, count: 1 });
+          values.push(undefined);
+        } else {
+          vari[vari.findIndex((e) => e.value == undefined)].count++;
+        }
         empty++;
       }
     }
@@ -87,29 +91,29 @@ const main = async () => {
   for (let col = 3; col <= getColNumber("PM"); col++) {
     let proper = true;
 
-    if (
-      Number(
-        meta[getColName(col)].empty_ratio.substr(
-          0,
-          meta[getColName(col)].empty_ratio.length - 1
-        )
-      ) > 50
-    ) {
+    // if (
+    //   Number(
+    //     meta[getColName(col)].empty_ratio.substr(
+    //       0,
+    //       meta[getColName(col)].empty_ratio.length - 1
+    //     )
+    //   ) > 99
+    // ) {
+    //   proper = false;
+    //   console.log(
+    //     meta[getColName(col)].category,
+    //     meta[getColName(col)].name,
+    //     "는 빈값이 ",
+    //     meta[getColName(col)].empty_ratio,
+    //     "라서 제거"
+    //   );
+    // }
+    if (meta[getColName(col)].vari.length < 2) {
       proper = false;
       console.log(
         meta[getColName(col)].category,
         meta[getColName(col)].name,
-        "는 빈값이 ",
-        meta[getColName(col)].empty_ratio,
-        "라서 제거"
-      );
-    }
-    if (meta[getColName(col)].vari.length < 3) {
-      proper = false;
-      console.log(
-        meta[getColName(col)].category,
-        meta[getColName(col)].name,
-        "는 값의 다양성이 ",
+        "는 값의 다양성(빈값 포함)이 ",
         meta[getColName(col)].vari.length,
         "라서 제거"
       );
@@ -139,15 +143,15 @@ const main = async () => {
     resultsheet,
     "1차재염-데이터분석후처리본"
   );
-  //   xlsx.utils.book_append_sheet(
-  //     resultbook,
-  //     xlsx.utils.json_to_sheet(meta),
-  //     "메타데이터"
-  //   );
+//   xlsx.utils.book_append_sheet(
+//     resultbook,
+//     xlsx.utils.json_to_sheet(meta),
+//     "메타데이터"
+//   );
 
   xlsx.writeFileSync(resultbook, "res.xlsx");
   //   console.log(JSON.stringify(meta));
-  // fs.writeFileSync("meta.json", JSON.stringify(meta));
+  fs.writeFileSync("meta.json", JSON.stringify(meta));
 };
 
 main();

@@ -3883,13 +3883,13 @@
     "name": "내광성등급",
     "unit": "급",
     "vari": [
-      { "value": "3-4", "count": 38 },
-      { "value": "1-2", "count": 135 },
+      { "value": 3.5, "count": 38 },
+      { "value": 1.5, "count": 135 },
       { "value": 2, "count": 69 },
       { "value": 3, "count": 39 },
       { "value": 4, "count": 59 },
-      { "value": "2-3", "count": 26 },
-      { "value": "4-5", "count": 7 },
+      { "value": 2.5, "count": 26 },
+      { "value": 4.5, "count": 7 },
       { "value": 5, "count": 1 },
       { "value": 1, "count": 2 }
     ],

@@ -26,6 +26,9 @@ const main = async () => {
   const workbook = xlsx.readFile("sample.xlsx");
   const worksheet = workbook.Sheets[workbook.SheetNames[0]];
   const meta = {};
+  const dyes = [];
+  const dyes_cnt = {};
+  const recipe = {};
   let recent_category = "기본";
   for (let col = 3; col <= getColNumber("PM"); col++) {
     const category = worksheet[getColName(col) + 1]
@@ -41,6 +44,9 @@ const main = async () => {
     let empty = 0;
     for (let row = 4; row <= 379; row++) {
       const cell = worksheet[getColName(col) + row];
+      if (cell == undefined) {
+        continue;
+      }
       if (name == "내광성등급") {
         // 표현 통일 (범위)->숫자
         if (cell.v == "1-2") {
@@ -52,6 +58,27 @@ const main = async () => {
         } else if (cell.v == "4-5") {
           cell.v = 4.5;
         }
+      }
+      if (String(name).match(/염료.* 명/) != null) {
+        // 염료 명 관련, 제조사명 은 안됨.
+        if (!dyes.find((k) => k == cell.v)) {
+          dyes.push(cell.v);
+          dyes_cnt[cell.v]= 1;
+        }else{
+          dyes_cnt[cell.v]++;
+        }
+        const num = String(name).match(/[0-9]/)[0];
+        //그냥 있는 것만 넣고 undefined면 나중에 0을 대신 채워넣는 식으로, sparse matrix?
+        if (!recipe[row]) {
+          recipe[row] = { name: [], amount: [] };
+        }
+        recipe[row].name.push(cell.v);
+      }
+      if (String(name).match(/염료.* 투입량/) != null) {
+        // 염료 투입량 관련
+        const num = String(name).match(/[0-9]/)[0];
+        //그냥 있는 것만 넣고 undefined면 나중에 0을 대신 채워넣는 식으로, sparse matrix?
+        recipe[row].amount.push(cell.v);
       }
       if (cell) {
         if (vari.find((e) => e.value == cell.v) === undefined) {
@@ -79,43 +106,41 @@ const main = async () => {
       empty_ratio: (empty / 376) * 100 + "%",
     };
   }
-  console.log("meta analy done")
+  console.log("meta analy done");
   const list = [];
-  
+
   const element = [];
-  for(let col = 1; col <= getColNumber('AT');col++){
+  for (let col = 1; col <= getColNumber("AS") + dyes.length; col++) {
     element[col] = "";
   }
-  for(let row =1;row<=379;row++){
+  for (let row = 1; row <= 379; row++) {
     list.push(element);
   }
   const resultbook = xlsx.utils.book_new();
 
   const resultsheet = xlsx.utils.aoa_to_sheet(list);
   // init
-  
-  for (let col = 1; col <= 1; col++) {
-    for (let row = 1; row <= 379; row++) {
-      resultsheet[getColName(col) + row] = worksheet[getColName(col) + row];
-    }
+  for (let row = 1; row <= 379; row++) {
+    resultsheet[getColName(1) + row] = { t: "n", v: row, w: String(row) };
   }
+
   // fill
-  let res_col = 2;
+  let res_col = 2; // 그냥 아예 1번 col에 못씀...
   for (let col = 5; col <= getColNumber("PM"); col++) {
     let proper = true;
 
-
     if (meta[getColName(col)].vari.length < 2) {
       proper = false;
-      console.log(
+      /*  console.log(
         meta[getColName(col)].category,
         meta[getColName(col)].name,
         "는 값의 다양성(빈값 포함)이 ",
         meta[getColName(col)].vari.length,
-        "라서 제거"
+        "라서 제거",
+        meta[getColName(col)].empty_ratio
       );
+      */
     }
-    // 카테 고리 제대로 안됨..
     if (proper) {
       console.log(
         meta[getColName(col)].category,
@@ -123,19 +148,33 @@ const main = async () => {
         "는 적절함"
       );
       resultsheet[getColName(res_col) + 1] = {
-        v: meta[getColName(col)].category,
-      }; // 이거 의도한대로 동작 안함. 그냥 진짜 빈값 드감.(근데 cell 이 undefined는 아님)
-      // d이거 왜 안됨??? --> execel style 그대로 가져와서 그런듯
-      // 로그 찍어 보자
-      // 뒤에 내광성이 안됨 -> category -> name
+        v: meta[getColName(col)].category + ":" + meta[getColName(col)].name,
+      };
       for (let row = 2; row <= 379; row++) {
         resultsheet[getColName(res_col) + row] =
-          worksheet[getColName(col) + row];
+          worksheet[getColName(col) + row]; // 우리 row 2부터 시작하는 거 맞음? 아 그냥 category만 써주고 밑에꺼 다복사하는 구나, 내가 col 추가하려면 조금 수정해야됨
       }
       res_col++;
     }
   }
-  console.log(res_col - 1);
+  for (let i = 0; i < dyes.length; i++) {
+    resultsheet[getColName(res_col + i) + 1] = { v: "레시피" };
+    resultsheet[getColName(res_col + i) + 2] = { v: dyes[i] };
+    resultsheet[getColName(res_col + i) + 3] = { v: "g" };
+    for (let row = 4; row <= 379; row++) {
+      const index = recipe[row].name.findIndex((e) => e == dyes[i]);
+      if (index != -1)
+        resultsheet[getColName(res_col + i) + row] = {
+          v: recipe[row].amount[index],
+        };
+      else resultsheet[getColName(res_col + i) + row] = { v: 0 };
+    }
+  }
+  console.log(getColNumber("PM"), "->", res_col + dyes.length - 1);
+
+  console.log(dyes.length);
+  console.log(dyes_cnt);
+  // console.log(recipe);
   // append
   xlsx.utils.book_append_sheet(
     resultbook,
@@ -148,8 +187,8 @@ const main = async () => {
   //     "메타데이터"
   //   );
 
-  xlsx.writeFileSync(resultbook, "res.xlsx");
-  fs.writeFileSync("meta.json", JSON.stringify(meta));
+  xlsx.writeFileSync(resultbook, "format.xlsx");
+  // fs.writeFileSync("meta.json", JSON.stringify(meta));
 };
 
 main();

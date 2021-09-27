@@ -1,0 +1,15 @@
+Lab 배합:Lab 배합 조제 #3 명
+    NaN, 0
+    UVK-200, 1
+    Fadex® TS liq, 2
+Lab 배합:Lab 배합 조제 #4 명
+    NaN, 0
+    UVK-400 H/C, 1
+    Sera Fast P-UVC, 2
+
+Lab 염색:Lab 염색 기계 ID == Lab 후처리:Lab 후처리 기계ID
+    P-DY02, 0
+    P-DY08, 1
+Lab 염색:Lab 염색 기계명 == Lab 후처리:Lab 후처리 기계명
+    IR 염색기, 0
+    STARLET DL-6000+, 1

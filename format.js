@@ -63,8 +63,8 @@ const main = async () => {
         // 염료 명 관련, 제조사명 은 안됨.
         if (!dyes.find((k) => k == cell.v)) {
           dyes.push(cell.v);
-          dyes_cnt[cell.v]= 1;
-        }else{
+          dyes_cnt[cell.v] = 1;
+        } else {
           dyes_cnt[cell.v]++;
         }
         const num = String(name).match(/[0-9]/)[0];
@@ -126,6 +126,20 @@ const main = async () => {
 
   // fill
   let res_col = 2; // 그냥 아예 1번 col에 못씀...
+  for (let i = 0; i < dyes.length; i++) {
+    resultsheet[getColName(res_col + i) + 1] = { v: "레시피:"+dyes[i] };
+    resultsheet[getColName(res_col + i) + 2] = { v: dyes[i] };
+    resultsheet[getColName(res_col + i) + 3] = { v: "g" };
+    for (let row = 4; row <= 379; row++) {
+      const index = recipe[row].name.findIndex((e) => e == dyes[i]);
+      if (index != -1)
+        resultsheet[getColName(res_col + i) + row] = {
+          v: recipe[row].amount[index],
+        };
+      else resultsheet[getColName(res_col + i) + row] = { v: 0 };
+    }
+  }
+  res_col += dyes.length;
   for (let col = 5; col <= getColNumber("PM"); col++) {
     let proper = true;
 
@@ -142,6 +156,15 @@ const main = async () => {
       */
     }
     if (proper) {
+      if (
+        (meta[getColName(col)].name.match(/염료.* 투입량/) != null) |
+        (meta[getColName(col)].name.match(/염료.* 명/) != null) |
+        (meta[getColName(col)].name.match(/염료.* 제조사명/) != null) |
+        (meta[getColName(col)].name.match(/조제.* 제조사명/) != null) 
+      ) {
+        console.log(meta[getColName(col)].name + " 삭제");
+        continue;
+      }
       console.log(
         meta[getColName(col)].category,
         meta[getColName(col)].name,
@@ -157,23 +180,10 @@ const main = async () => {
       res_col++;
     }
   }
-  for (let i = 0; i < dyes.length; i++) {
-    resultsheet[getColName(res_col + i) + 1] = { v: "레시피" };
-    resultsheet[getColName(res_col + i) + 2] = { v: dyes[i] };
-    resultsheet[getColName(res_col + i) + 3] = { v: "g" };
-    for (let row = 4; row <= 379; row++) {
-      const index = recipe[row].name.findIndex((e) => e == dyes[i]);
-      if (index != -1)
-        resultsheet[getColName(res_col + i) + row] = {
-          v: recipe[row].amount[index],
-        };
-      else resultsheet[getColName(res_col + i) + row] = { v: 0 };
-    }
-  }
   console.log(getColNumber("PM"), "->", res_col + dyes.length - 1);
 
-  console.log(dyes.length);
-  console.log(dyes_cnt);
+  // console.log(dyes.length);
+  // console.log(dyes_cnt);
   // console.log(recipe);
   // append
   xlsx.utils.book_append_sheet(

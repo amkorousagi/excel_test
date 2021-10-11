@@ -175,12 +175,12 @@ const main = async () => {
       };
       for (let row = 2; row <= 379; row++) {
         resultsheet[getColName(res_col) + row] =
-          worksheet[getColName(col) + row]; // 우리 row 2부터 시작하는 거 맞음? 아 그냥 category만 써주고 밑에꺼 다복사하는 구나, 내가 col 추가하려면 조금 수정해야됨
+          worksheet[getColName(col) + row];
       }
       res_col++;
     }
   }
-  console.log(getColNumber("PM"), "->", res_col + dyes.length - 1);
+  console.log(getColNumber("PM"), "->", res_col-1);
 
   // console.log(dyes.length);
   // console.log(dyes_cnt);
@@ -197,7 +197,7 @@ const main = async () => {
   //     "메타데이터"
   //   );
 
-  xlsx.writeFileSync(resultbook, "format.xlsx");
+  // xlsx.writeFileSync(resultbook, "format.xlsx");
   // fs.writeFileSync("meta.json", JSON.stringify(meta));
 };
 

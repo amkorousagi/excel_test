@@ -124,10 +124,7 @@ const main = async () => {
       );
       resultsheet[getColName(res_col) + 1] = {
         v: meta[getColName(col)].category,
-      }; // 이거 의도한대로 동작 안함. 그냥 진짜 빈값 드감.(근데 cell 이 undefined는 아님)
-      // d이거 왜 안됨??? --> execel style 그대로 가져와서 그런듯
-      // 로그 찍어 보자
-      // 뒤에 내광성이 안됨 -> category -> name
+      }; 
       for (let row = 2; row <= 379; row++) {
         resultsheet[getColName(res_col) + row] =
           worksheet[getColName(col) + row];
@@ -135,7 +132,7 @@ const main = async () => {
       res_col++;
     }
   }
-  console.log(res_col - 1);
+  console.log(getColNumber("PM"), res_col - 1);
   // append
   xlsx.utils.book_append_sheet(
     resultbook,
@@ -148,8 +145,8 @@ const main = async () => {
   //     "메타데이터"
   //   );
 
-  xlsx.writeFileSync(resultbook, "res.xlsx");
-  fs.writeFileSync("meta.json", JSON.stringify(meta));
+  // xlsx.writeFileSync(resultbook, "res.xlsx");
+  // fs.writeFileSync("meta.json", JSON.stringify(meta));
 };
 
 main();
